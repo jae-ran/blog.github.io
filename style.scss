@@ -257,7 +257,7 @@ a.footnote {
 // Image
 img {
   display: block;
-  max-width: 100%;
+  max-width: 133%;
   margin: 0 0 1em;
   border-radius: 5px;
 }
@@ -312,7 +312,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 40px;
 }
 
 .masthead {
@@ -327,8 +327,9 @@ img {
 .site-avatar {
   float: left;
   width: 70px;
-  height: 70px;
+  height: 80px;
   margin-right: 15px;
+  margin-top: 8px;
 
   @include mobile {
     float: none;
