@@ -6,7 +6,7 @@
 name: Jaeran's Blog
 
 # Short bio or description (displayed in the header)
-description: 꼬물꼬물 코딩스터디
+description: 꼬물꼬물 코딩공부
 
 #
 # Flags below are optional
@@ -22,14 +22,15 @@ avatar: "/images/jekyll-logo.png"
 navigation:
   - name: Home
     url: /
-  - name: Category
-    url: /categories
-  - name: Archive
-    url: /archive
   - name: About
     url: /about
+  - name: Category
+    url: /categories
   - name: Tags
     url: /tags
+#  - name: Archive
+#    url: /archive
+
 #  - name: Theme
 #    url: https://github.com/AWEEKJ/kiko-now
 category_list: [book, gitblog, java, web]

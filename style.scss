@@ -500,6 +500,25 @@ nav {
     margin-left: 3px;
   }
 }
+// categories
+.categories{
+  a {
+    color: $base-color;
+  }
+  time {
+    color: $base-lighten-color;
+    font-size: $small-font-size;
+    font-weight: 300;
+    margin-left: 3px;
+  }
+}
+
+//pageTitle
+.pageTitle{
+  h1{
+    color: $base-lighten-color;
+  }
+}
 
 // Tags
 .tags > .label {
