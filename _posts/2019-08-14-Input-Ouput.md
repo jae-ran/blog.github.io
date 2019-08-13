@@ -3,8 +3,8 @@ layout: post
 title: BufferedReader와 BufferedWriter
 tags:
   - IO
-  - casting
-  - lib
+  - BufferedReader
+  - BufferedWriter
 categories: [Java]
 ---
 Java를 처음 접하면서 쭉 데이터를 입력받을 때 <b>Scanner</b>를 사용하였다. Scanner는 <u>Space(띄어쓰기)와 Enter(개행문자)를 입력값의 경계로 인식</u>하기 때문에 데이터를 가공하기 매우 편하다. 게다가 데이터 타입이 입력 받는 시점에 결정되어 별도의 <u>Casting이 필요하지 않다</u>는 장점이 있다.
