@@ -46,5 +46,5 @@ bw.close();   // 스트림 닫기
 다만, 주의할 점은 flush()함수나 close()함수를 통해 버퍼에 남아 있는 데이터를 출력해 없애고, 스트림을 닫아줘야 한다!!
 
 ## 참조
-[공부하자] 블로그 [https://carpediem0212.tistory.com/11](https://carpediem0212.tistory.com/11)
-몰랑이말랑이 블로그[https://jhnyang.tistory.com/92](https://jhnyang.tistory.com/92)
+[https://carpediem0212.tistory.com/11](https://carpediem0212.tistory.com/11)
+[https://jhnyang.tistory.com/92](https://jhnyang.tistory.com/92)
