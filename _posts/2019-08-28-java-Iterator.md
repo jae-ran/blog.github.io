@@ -32,7 +32,7 @@ Iterator는 <u>반복자</u>라고 부르며 컬렉션이 보관하고 있는 �
 Iterable 인터페이스는 for-each Loop를 사용할 수 있도록 해준다.
 
 구조를 살펴보면 List,Set은 Collection을 상속받고 있고, Collection은 Iterable을 상속받고 있다.
-![ListIterator]({{site.url}}/images/Iterator.png){: width="600" height="400"}
+![ListIterator]({{site.url}}/images/Iterator.png){: width="400" height="400"}
 
 <b>Iterable:</b>
 + public Iterator iterator();  메소드를 구현하게 강제하기 위한 인터페이스.
@@ -49,7 +49,7 @@ Iterator 인터페이스는 컬렉션의 요소에 접근할 때 한 방향으�
 
 단, ListIterator 인터페이스는 List 인터페이스를 구현한 List 컬렉션 클래스에서만 listIterator() 메소드를 통해 사용할 수 있다.
 
-![ListIterator]({{site.url}}/images/ListIterator.JPG){: width="600" height="400"}
+![ListIterator]({{site.url}}/images/ListIterator.JPG){: width="550" height="400"}
 
 ## 참조
 [https://m.blog.naver.com/writer0713/220877874725](https://m.blog.naver.com/writer0713/220877874725)
