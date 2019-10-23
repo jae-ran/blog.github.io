@@ -22,7 +22,7 @@ List와 Set은 객체 추가, 삭제 검색하는 방법에 많은 공통점이 
 컬렉션 프레임워크에서는 데이터를 저장하는 자료 구조에 따라 핵심이 되는 주요 인터페이스를 정의한다.
 
 ![CollectionInterface]({{site.url}}/images/CollectionInterface.JPG){: width="484" height="241"}
-**인터페이스에 대해 더 알고싶다면 <i class="fa fa-arrow-right"></i>** [List](/list) [Set](/set) [Map](/map)
+**인터페이스에 대해 더 알고싶다면 <i class="fa fa-arrow-right"></i>** [List](https://jae-ran.github.io/List/) [Set](https://jae-ran.github.io/Set/) [Map](https://jae-ran.github.io/Map/)
 
 <hr>
 ## Collection Framework Method
