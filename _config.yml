@@ -33,7 +33,7 @@ navigation:
 
 #  - name: Theme
 #    url: https://github.com/AWEEKJ/kiko-now
-category_list: [book, gitblog, java, web]
+category_list: [book, datastructure, etc, gitblog, java, web]
 # Pagination
 paginate: 5
 
