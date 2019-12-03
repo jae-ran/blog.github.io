@@ -20,7 +20,7 @@ Agile 방법론이 표준화되고, 이를 통해 배포를 위한 빌드 단계
 ## CI 구성요소
 
 #### CI Server
-빌드 프로세스를 관리하는 서버
+빌드 프로세스를 관리하는 서버<br>
 EX) Jenkins, Travis CI
 
 #### Source Code Management(SCM)
