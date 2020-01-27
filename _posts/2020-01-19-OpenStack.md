@@ -30,14 +30,16 @@ AWS의 EC2와 호환된 API를 제공한다.
 쉽게 말하면 가상화OS이다. 호스트 컴퓨터 1대에서 다수의 운영체제를 동시에 실행할 수 있는 가상 플랫폼 기술을 말한다. 가상화 머신 모니터(VMM)라고도 말한다.
 
 #### <i class="fa fa-database"></i> Cinder(Blocked Storage Service)
-> 범용의 저장장치를 기반으로 디스크 볼륨을 제공.
+> 블록(Block)기반 스토리지 서비스를
+
+범용의 저장장치를 기반으로 디스크 볼륨을 제공.
 
 Cinder에 의해 생성된 가상 디스크 볼륨은 가상머신에 마운트 되어 가상머신 사용자의 데이터를 저장하는데 사용될 수 있다.
 
 Nova에서 생성된 인스턴스에 확장하여 사용할 수 있는 저장 공간을 생성 및 삭제하고 인스턴스에 연결할 수 있는 기능을 제공한다.
 
 #### <i class="fa fa-archive"></i> Swift(Cloud Storage Service)
-> 오브젝트(Object) 스토리지 서비스에
+> 오브젝트(Object) 스토리지 서비스.
 
 대용량 데이터를 저장할 수 있는 높은 확장성을 가지는 오브젝트 저장장치를 제공하는 서비스이다.
 
@@ -70,7 +72,7 @@ VLAN, Router등을 생성하고 변경하거나 삭제한다. Load Valancing, �
 네트워킹 기능은 Neutron과 연결된 네트워크 프로바이더에 의해 제공된다.
 <hr>
 ## 출처
-https://www.ibm.com/kr-ko/cloud/products#934716
-https://sarc.io/index.php/create/406-openstack
-https://www.dellemc.com/ko-kr/glossary/object-storage.htm
-http://liwonace.co.kr/openstack/
+[https://www.ibm.com/kr-ko/cloud/products#934716](https://www.ibm.com/kr-ko/cloud/products#934716)
+[https://sarc.io/index.php/cloud/736-openstack-series-1-openstack](https://sarc.io/index.php/cloud/736-openstack-series-1-openstack)
+[https://www.dellemc.com/ko-kr/glossary/object-storage.htm](https://www.dellemc.com/ko-kr/glossary/object-storage.htm)
+[http://liwonace.co.kr/openstack/](http://liwonace.co.kr/openstack/)
