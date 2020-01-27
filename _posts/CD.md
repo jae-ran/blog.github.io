@@ -38,7 +38,7 @@ Ex) Maven, Gradle, Ant
 Ex) JUnit, Mocha
 <hr>
 ## CD
-> 지속적인 서비스 제공 또는 지속적인  포(Continuous Deploy/Delivery)
+> 지속적인 서비스 제공 또는 지속적인 배포(Continuous Deploy/Delivery)
 
 소프트웨어가 항상 신뢰 가능한 수준에서 배포될 수 있도록 지속적으로 관리하자는 개념이다.
 
